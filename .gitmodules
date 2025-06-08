@@ -1,0 +1,3 @@
+[submodule "court-insight-ai-main"]
+	path = court-insight-ai-main
+	url = https://github.com/Manish7773/Court-Case-Judgement-Prediction-using-ML.git
